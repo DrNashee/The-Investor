@@ -1,0 +1,2 @@
+# The-Investor
+The Investor is an internet-inspired means of raising money from the mass market, for a project or business. There are three parties involved in it: namely Project Campaigner or Entrepreneur, Website Platformer, and Crowd or Investor as to constitute the business of crowdfunding, whereas the role of Website Plat former is to bring the other two Parties jointly and they meet together.
